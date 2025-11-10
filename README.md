@@ -1,2 +1,2 @@
-# Optimizaci-n-de-Portafolios-Maximizaci-n-del-Ratio-de-Sharpe-mediante-QP-SCM-y-Algoritmos-Gen-ticos
+# Optimizaci\'on-de-Portafolios-Maximizaci\'on-del-Ratio-de-Sharpe-mediante-QP-SCM-y-Algoritmos-Gen\'eticos
 En este trabajo se desarrolla un modelo de optimización de portafolio con restricciones exactas mediante programación cuadrática, simulación de Monte Carlo y algoritmos genéticos, combinando la teoría de Markowitz con la implementación práctica en Python., siguiendo la recomendación de Damodaran (2008)
